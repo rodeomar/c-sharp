@@ -4,3 +4,5 @@ dist/
 coverage/
 .env
 package-lock.json
+obj
+bin
